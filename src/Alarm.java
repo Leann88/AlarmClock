@@ -1,6 +1,8 @@
 /*PLEASE DO NOT EDIT THIS CODE*/
 /*This code was generated using the UMPLE 1.21.0.5139 modeling language!*/
-
+/*
+ * By: Leann Labelle
+ */
 
 import java.util.*;
 

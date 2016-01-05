@@ -1,4 +1,6 @@
-
+/*
+ * By: Leann Labelle
+ */
 public class User implements Runnable {
       private AlarmClock myAc;
       

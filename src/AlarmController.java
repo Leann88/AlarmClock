@@ -1,7 +1,9 @@
 /*PLEASE DO NOT EDIT THIS CODE*/
 /*This code was generated using the UMPLE 1.21.0.5095 modeling language!*/
 
-
+/*
+ * By: Leann Labelle
+ */
 import java.util.*;
 
 // line 270 "model.ump"

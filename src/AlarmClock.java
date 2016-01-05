@@ -1,4 +1,6 @@
-
+/*
+ * By: Leann Labelle
+ */
 public class AlarmClock {
 	
 	private Display d;
